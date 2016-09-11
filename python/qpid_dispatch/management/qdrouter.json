@@ -585,7 +585,7 @@
                 },
                 "authenticatePeer": {
                     "type": "boolean",
-                    "default": false,
+                    "default": true,
                     "description": "yes: Require the peer's identity to be authenticated; no: Do not require any authentication.",
                     "create": true
                 },
